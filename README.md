@@ -16,7 +16,7 @@ Press S to apply Gouraud Shading instead of Flat Shading.
 Press Space to rotate.
 ![image](https://github.com/user-attachments/assets/f544d8ac-9a01-4e03-b5c0-01926665353d)
 
-Press Right Key to increase Sample plints.
+Press Right Key to increase Sample points. (Press the left key to decrease.)
 ![image](https://github.com/user-attachments/assets/28d2a5cd-0dbf-4945-9db4-4f3751daffd5)
 
 Press Delete to remove latest surface or line.
